@@ -55,6 +55,16 @@ Key Insights
  - Data Analytics: Applied data cleaning and analysis techniques to extract meaningful insights from large datasets.
  - Excel: Assisted in data preparation and cross-verification of metrics.
 
+8. Dax query used
+
+ -  Total Resolved 
+
+       Total Resolved = CALCULATE(COUNTROWS('01 Call-Center-Dataset'),'01 Call-Center-Dataset'[Call Status]="Resolved")
+
+ -  Total Abandoned 
+
+       Total Abandoned = CALCULATE(COUNTROWS('01 Call-Center-Dataset'),'01 Call-Center-Dataset'[Call Status]="Abandoned")
+
 8. Challenges and Solutions
    
  - Data Accuracy: Ensured data reliability by conducting cross-references between data sources.

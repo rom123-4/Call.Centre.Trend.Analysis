@@ -64,5 +64,6 @@ Key Insights
 
 This analysis has laid the groundwork for future performance improvement initiatives. By identifying trends in call volume and agent productivity, the call center can strategically optimize resource allocation, enhance training programs, and improve customer service practices. The next phase includes refining predictive models to forecast call trends and further improve response strategies.
 
+<img width="633" alt="image" src="https://github.com/user-attachments/assets/2144f684-f6bf-4a74-821d-46ebded468c2">
 
 
